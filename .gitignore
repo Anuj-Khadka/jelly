@@ -7,7 +7,7 @@ nlp/key.json
 !nlp/Nepali_nlp/__pycache__
 !nlp/Nepali_nlp/spellcheck.py
 bot/token.txt
-.venv/
+/.venv/
 venv/
 env/
 .env
